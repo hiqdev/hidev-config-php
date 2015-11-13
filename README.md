@@ -1,5 +1,7 @@
-Hidev config for PHP projects
-=============================
+HiDev PHP
+=========
+
+**HiDev config for PHP projects**
 
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/hidev-config-php/v/stable)](//packagist.org/packages/hiqdev/hidev-config-php)
 [![Total Downloads](https://poser.pugx.org/hiqdev/hidev-config-php/downloads)](//packagist.org/packages/hiqdev/hidev-config-php)
