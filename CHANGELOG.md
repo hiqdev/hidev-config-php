@@ -4,6 +4,10 @@ hiqdev/hidev-config-php changelog
 ## Under development
 
 
+## 0.1.3 2015-11-13
+
+- Added skipping of `return`, `empty_return` and `phpdoc_no_empty_return` fixers
+
 ## 0.1.2 2015-11-06
 
 - Fixed php-cs-fixer config: dont touch aligning for equals and double arrows

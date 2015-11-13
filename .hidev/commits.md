@@ -3,6 +3,11 @@ hiqdev/hidev-config-php commits history
 
 ## Under development
 
+
+## 0.1.3 2015-11-13
+
+- Added skipping of `return`, `empty_return` and `phpdoc_no_empty_return` fixers
+    - f0abe59 2015-11-13 added skip `phpdoc_no_empty_return` and `return` fixers (sol@hiqdev.com)
     - db0359e 2015-11-09 disabled empty_return fixer (sol@hiqdev.com)
 
 ## 0.1.2 2015-11-06
