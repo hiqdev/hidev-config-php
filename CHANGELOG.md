@@ -3,6 +3,7 @@ hiqdev/hidev-config-php changelog
 
 ## Under development
 
+- DEPRECATED
 
 ## 0.1.3 2015-11-13
 

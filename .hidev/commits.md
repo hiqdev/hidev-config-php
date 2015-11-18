@@ -3,6 +3,8 @@ hiqdev/hidev-config-php commits history
 
 ## Under development
 
+- DEPRECATED
+    - 3c94af2 2015-11-18 DEPRECATED (sol@hiqdev.com)
 
 ## 0.1.3 2015-11-13
 
