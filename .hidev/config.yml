@@ -1,8 +1,8 @@
 package:
     name:           hidev-config-php
     namespace:      hiqdev\hidev\config\php
-    headline:       HiDev PHP
-    title:          HiDev config for PHP projects
+    headline:       DEPRECATED
+    title:          Deprecated in favour of hiqdev/hidev-php
     type:           yii2-extension
     keywords:       hidev, config, php
     year:           2015

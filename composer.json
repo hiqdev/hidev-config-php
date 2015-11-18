@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/hidev-config-php",
     "type": "yii2-extension",
-    "description": "HiDev config for PHP projects",
+    "description": "Deprecated in favour of hiqdev/hidev-php",
     "keywords": [
         "hidev",
         "config",
